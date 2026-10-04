@@ -34,3 +34,13 @@ return 0;
 //strcmp(firstStr, secStr)
 //compares two strings and returns a value
 
+#include<stdio.h>
+#include<string.h>
+int main(){
+   char firstStr[100]="Apple";
+    char secStr[100]="Banana";
+    strcmp(firstStr, secStr);
+    printf("%d\n", strcmp(firstStr, secStr));
+    
+return 0;
+}
