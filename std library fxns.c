@@ -31,6 +31,6 @@ int main(){
 return 0;
 }
 
-//strcpm(firstStr, secStr)
+//strcmp(firstStr, secStr)
 //compares two strings and returns a value
 
